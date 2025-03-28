@@ -1,28 +1,27 @@
-Agro Fields Management System
+# **Agro Map**
+Agro Field Management Dashboard
 
-Key Features
-Field Organization:
+## 🌱 Overview
+A modern agricultural field management interface designed to help farmers and agronomists organize, track, and manage their fields efficiently.
 
-Groups fields into categories like "My Best Fields" and "New Fields"
+## ✨ Key Features
+### 🗂️ Field Organization
+- Categorized grouping ("My Best Fields", "New Fields", custom groups)
+- Deleted fields section with one-click restoration
+- Total land calculation (shown as 1204 ha in example)
 
-Shows deleted fields with restoration option
+### 📋 Field Information Display
+- Clear field naming system
+- Size displayed in hectares
+- Current crop type indicator
+- Selectable checkboxes for batch operations
 
-Displays total land area (1204 hectares in this case)
+### ⚙️ Field Management
+- Add new fields with customizable parameters
+- Create field groups for better organization
+- Restore accidentally deleted fields
 
-Field Information Display:
-
-Shows field names
-
-Displays size (in hectares)
-
-Indicates crop type (appears to show "кровая пш..." which may refer to a crop type)
-
-Includes checkboxes for selection
-
-Field Management:
-
-Ability to add new fields ("Добавить поле")
-
-Group creation functionality ("Новая группа")
-
-Restoration of deleted fields ("Восстановить")
+### 🛠 Technical Implementation
+- Modern web interface (likely React/Vue-based)
+- Responsive design for desktop and mobile
+- Intuitive UI with Russian language support
