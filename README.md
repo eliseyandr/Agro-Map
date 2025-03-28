@@ -1,4 +1,4 @@
-![alt text]("C:\Users\user\Desktop\WarZone.png")
+![alt text](./static/img/pic.png)
 
 # **Agro Map**
 Agro Field Management Dashboard
